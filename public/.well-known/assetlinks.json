@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.victaman.goformeet",
+      "sha256_cert_fingerprints": [
+        "7D:D7:80:58:9D:88:F5:90:81:AB:5F:C4:D7:3E:69:13:83:C3:3F:84:93:84:91:2D:78:C4:7A:70:E6:8D:46:CC"
+      ]
+    }
+  }
+]
